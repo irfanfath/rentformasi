@@ -55,6 +55,6 @@
           </ul>
         </div>
       </div>
-                      <p><a href="#" class="btn btn-primary" style="margin-top: 20px; margin-right: 20px;">Daftar Vendor</a></p>
+            <p><a href="registvendor.php" class="btn btn-primary" style="margin-top: 20px; margin-right: 20px;">Daftar Vendor</a></p>
 
     </nav>

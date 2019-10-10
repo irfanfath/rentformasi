@@ -205,7 +205,7 @@
 	    					</div>
 	    					<div class="bottom-area d-flex px-3">
 	    						<div class="m-auto d-flex">
-	    							<a href="cart.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
+	    							<a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
 	    								<span><i class="ion-ios-cart"></i></span>
 	    							</a>
 	    							<a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">

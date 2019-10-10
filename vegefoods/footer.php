@@ -40,10 +40,6 @@
 	                <li><a href="#" class="py-2 d-block">Terms &amp; Conditions</a></li>
 	                <li><a href="#" class="py-2 d-block">Privacy Policy</a></li>
 	              </ul>
-	              <ul class="list-unstyled">
-	                <li><a href="#" class="py-2 d-block">FAQs</a></li>
-	                <li><a href="#" class="py-2 d-block">Contact</a></li>
-	              </ul>
 	            </div>
             </div>
           </div>

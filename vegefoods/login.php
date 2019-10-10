@@ -27,6 +27,8 @@
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="css2/util.css">
 	<link rel="stylesheet" type="text/css" href="css2/main.css">
+	<link rel="stylesheet" href="css/icomoon.css">
+
 <!--===============================================================================================-->
 </head>
 
@@ -87,8 +89,7 @@
 									</a>
 								</span>
 						</div>
-
-						
+					
 					</div>
 
 					<div class="container-login100-form-btn">
@@ -103,8 +104,19 @@
 							Sign Up
 							<i class="fa fa-long-arrow-right m-l-5"></i>
 						</a>
-
 					</div>
+
+					<div class="col-md">
+			            <div class="ftco-footer-widget mb-4">
+			              <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
+			              	<h2 style="font-size: 20px;">Sign In With Social Media </h2>
+			              	<br>
+			                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+			                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+			                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+			              </ul>
+			            </div>
+	        		</div>
 				</form>
 			</div>
 		</div>
