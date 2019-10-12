@@ -38,96 +38,141 @@
     <section class="ftco-section">
 			<div class="container">
 				<div class="row no-gutters ftco-services">
-			          <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+
+			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
 			              <div class="icon bg-color-1 active d-flex justify-content-center align-items-center mb-2">
 			            		<span class="flaticon-shipped"></span>
 			              </div>
 			              <div class="media-body">
 			                <h3 class="heading">Mobil & Motor</h3>
-			                <span>On order over $100</span>
+			                	<span>On order over $100</span>
 			              </div>
 			            </div>      
-			          </div>
-			          <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+			        </div>
+			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
 			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
 			            		<span class="flaticon-diet"></span>
 			              </div>
 			              <div class="media-body">
 			                <h3 class="heading">Alat Elektronik</h3>
-			                <span>Product well package</span>
+			               	 	<span>Product well package</span>
 			              </div>
 			            </div>    
-			          </div>
-			          <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+			        </div>
+			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
 			              <div class="icon bg-color-3 d-flex justify-content-center align-items-center mb-2">
 			            		<span class="flaticon-award"></span>
 			              </div>
 			              <div class="media-body">
 			                <h3 class="heading">Alat Berat</h3>
-			                <span>Quality Products</span>
+			                	<span>Quality Products</span>
 			              </div>
 			            </div>      
-			          </div>
-			          <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+			        </div>
+			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
 			              <div class="icon bg-color-4 d-flex justify-content-center align-items-center mb-2">
 			            		<span class="flaticon-customer-service"></span>
 			              </div>
 			              <div class="media-body">
 			                <h3 class="heading">Perlengkapan Gunung</h3>
-			                <span>24/7 Support</span>
+			                	<span>24/7 Support</span>
 			              </div>
 			            </div>      
-			          </div>
-			          <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+			        </div>
+			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
 			              <div class="icon bg-color-4 d-flex justify-content-center align-items-center mb-2">
 			            		<span class="flaticon-customer-service"></span>
 			              </div>
 			              <div class="media-body">
 			                <h3 class="heading">Clothing</h3>
-			                <span>24/7 Support</span>
+			                	<span>24/7 Support</span>
 			              </div>
 			            </div>      
-			          </div>
-			          <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+			        </div>
+			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
 			              <div class="icon bg-color-3 d-flex justify-content-center align-items-center mb-2">
 			            		<span class="flaticon-award"></span>
 			              </div>
 			              <div class="media-body">
 			                <h3 class="heading">Peralatan Olahraga</h3>
-			                <span>Quality Products</span>
+			                	<span>Quality Products</span>
 			              </div>
 			            </div>      
-			          </div>
-			          <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+			        </div>
+			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+			            <div class="media block-6 services mb-md-0 mb-4">
+			              <div class="icon bg-color-3 d-flex justify-content-center align-items-center mb-2">
+			            	<span class="flaticon-award"></span>
+			              </div>
+			              <div class="media-body">
+			                <h3 class="heading">Buku</h3>
+			                	<span>Quality Products</span>
+			              </div>
+			            </div>      
+			        </div>
+			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
 			              <div class="icon bg-color-3 d-flex justify-content-center align-items-center mb-2">
 			            		<span class="flaticon-award"></span>
 			              </div>
 			              <div class="media-body">
-			                <h3 class="heading">Buku</h3>
-			                <span>Quality Products</span>
+			                <h3 class="heading">Apartemen</h3>
+			                	<span>Quality Products</span>
 			              </div>
 			            </div>      
-			          </div>
-			          <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+			        </div>
+			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+			            <div class="media block-6 services mb-md-0 mb-4">
+			              <div class="icon bg-color-4 d-flex justify-content-center align-items-center mb-2">
+			            		<span class="flaticon-customer-service"></span>
+			              </div>
+			              <div class="media-body">
+			                <h3 class="heading">Hotel</h3>
+			                	<span>24/7 Support</span>
+			              </div>
+			            </div>      
+			        </div>
+			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
 			              <div class="icon bg-color-1 active d-flex justify-content-center align-items-center mb-2">
 			            		<span class="flaticon-shipped"></span>
 			              </div>
 			              <div class="media-body">
-			                <h3 class="heading">Photography</h3>
+			                <h3 class="heading">Hobi</h3>
 			                <span>On order over $100</span>
 			              </div>
 			            </div>      
-			          </div>
-	        </div>
-				</div>
+			        </div>
+			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+			            <div class="media block-6 services mb-md-0 mb-4">
+			              <div class="icon bg-color-4 d-flex justify-content-center align-items-center mb-2">
+			            		<span class="flaticon-customer-service"></span>
+			              </div>
+			              <div class="media-body">
+			                <h3 class="heading">Perlengkapan Pesta</h3>
+			                	<span>24/7 Support</span>
+			              </div>
+			            </div>      
+			        </div>
+			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+			            <div class="media block-6 services mb-md-0 mb-4">
+			              <div class="icon bg-color-4 d-flex justify-content-center align-items-center mb-2">
+			            		<span class="flaticon-customer-service"></span>
+			              </div>
+			              <div class="media-body">
+			                <h3 class="heading">Peralatan Perkakas</h3>
+			                	<span>24/7 Support</span>
+			              </div>
+			            </div>      
+			        </div>
+	        	</div>
+			</div>
 	</section>
 
 		<section class="ftco-section ftco-category ftco-no-pt">
