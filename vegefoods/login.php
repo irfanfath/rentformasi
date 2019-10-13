@@ -39,6 +39,8 @@
 			<div class="login100-more" style="background-image: url('images/bg2.jpg');"></div>
 
 			<div class="wrap-login100 p-l-50 p-r-50 p-t-72 p-b-50">
+				<a class="navbar-brand" href="index.php"><img src = "images/logo.png" style="width: 200px; margin-left: 120px; margin-bottom: 50px;"></a>
+
 				<form class="login100-form validate-form">
 					<span class="login100-form-title p-b-59">
 						Silahkan Login

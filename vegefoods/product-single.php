@@ -57,7 +57,7 @@
 												    		<div class="input-group-addon">
 												           		<span class="glyphicon glyphicon-th"></span>
 												    		</div>
-												       			<input placeholder="Selesai Sewa" type="text" class="form-control datepicker" name="tgl_awal">
+												       			<input placeholder="Selesai Sewa" type="text" class="form-control datepicker" name="tgl_akhir">
 												   		</div>
 				                				</div>
 			                				</div>
@@ -85,11 +85,10 @@
 						          	<div class="col-md-12">
 						          		<p style="color: #000;">Tersedia 300 stok</p>
 						          	</div>
-          	</div>
-
-
-          	<p><a href="cart.php" class="btn btn-black py-3 px-5">Sewa Sekarang</a></p>
-    	</div>
+          						</div>
+          		<p><a href="cart.php" class="btn btn-black py-3 px-5">Sewa Sekarang</a></p>
+    		</div>
+    	</div>	
     </div>
 </section>
 
@@ -291,7 +290,7 @@
 		});
 	</script>
 
-	<script type="text/javascript">
+<script type="text/javascript">
  $(function(){
   $(".datepicker").datepicker({
       format: 'yyyy-mm-dd',
