@@ -11,6 +11,124 @@
       </div>
     </div>
 
+    <section class="ftco-section ftco-no-pt ftco-no-pb py-5 bg-light">
+      <div class="container py-4">
+        <div class="row d-flex justify-content-center py-5">
+                    <div class="col-lg-6 product-details pl-md-5 ftco-animate">
+                        <div class="hero-wrap hero-bread" style="background-image: url('images/desain_jasa.png'); 
+                        margin-top: 90px;">
+                        </div>
+                        <!-- isi sama gambar -->
+                    </div>
+
+                    <div class="col-lg-6 product-details pl-md-5 ftco-animate">
+                                <div class="row mt-4">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="country" style="color: #000">Pilih Lokasi</label>
+                                            <div class="select-wrap">
+                                                <div class="icon"><span class="ion-ios-arrow-down"></span></div>
+                                                  <select name="" id="" class="form-control">
+                                                    <option value="">Bandung</option>
+                                                    <option value="">Jakarta</option>
+                                                    <option value="">Surabaya</option>
+                                                    <option value="">Yogyakarta</option>
+                                                    <option value="">Bali</option>
+                                                    <option value="">Lombok</option>
+                                                  </select>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="country" style="color: #000">Pilih Kategori Barang</label>
+                                            <div class="select-wrap">
+                                                <div class="icon"><span class="ion-ios-arrow-down"></span></div>
+                                                  <select name="" id="" class="form-control">
+                                                    <option value="">Mobil & Motor</option>
+                                                    <option value="">Alat Elektronik</option>
+                                                    <option value="">Fashion</option>
+                                                    <option value="">Alat Berat</option>
+                                                    <option value="">Apartemen & Hotel</option>
+                                                    <option value="">Hobi</option>
+                                                  </select>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-12">
+                                        <p style="color: #000;">Tanggal Sewa</p>
+                                    </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <div class="select-wrap">
+                                                    <div class="icon"><span class="ion-ios-arrow-down"></span></div>
+                                                        <div class="input-group date">
+                                                            <div class="input-group-addon">
+                                                                <span class="glyphicon glyphicon-th"></span>
+                                                            </div>
+                                                                <input placeholder="Mulai Sewa" type="text" class="form-control datepicker" name="tgl_awal">
+                                                        </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <div class="select-wrap">
+                                                    <div class="icon"><span class="ion-ios-arrow-down"></span></div>
+                                                        <div class="input-group date">
+                                                            <div class="input-group-addon">
+                                                                <span class="glyphicon glyphicon-th"></span>
+                                                            </div>
+                                                                <input placeholder="Selesai Sewa" type="text" class="form-control datepicker" name="tgl_akhir">
+                                                        </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    <div class="col-md-12">
+                                        <p style="color: #000;">Jumlah Sewa</p>
+                                    </div>
+                                        <div class="w-100"></div>
+                                            <div class="input-group col-md-6 d-flex mb-3">
+                                                <span class="input-group-btn mr-2">
+                                                    <button type="button" class="quantity-left-minus btn"  data-type="minus" data-field="">
+                                                    <i class="ion-ios-remove"></i>
+                                                    </button>
+                                                </span>
+                                                    <input type="text" id="quantity" name="quantity" class="form-control input-number" value="1" min="1" max="100">
+                                                <span class="input-group-btn ml-2">
+                                                    <button type="button" class="quantity-right-plus btn" data-type="plus" data-field="">
+                                                     <i class="ion-ios-add"></i>
+                                                    </button>
+                                                </span>
+                                            </div>
+                                        <div class="w-100"></div>    
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label for="country" style="color: #000">Urutkan Berdasarkan</label>
+                                                <div class="select-wrap">
+                                                    <div class="icon"><span class="ion-ios-arrow-down"></span></div>
+                                                      <select name="" id="" class="form-control">
+                                                        <option value="">Paling Sesuai</option>
+                                                        <option value="">Paling Laris</option>
+                                                        <option value="">Rating Terbaik</option>
+                                                        <option value="">Harga Terendah</option>
+                                                        <option value="">Harga Tertinggi</option>
+                                                      </select>
+                                                </div>
+                                            </div>
+                                        </div>         
+                                </div>
+                                <br>
+                                <p><a href="cart.php" class="btn btn-black py-3 px-5">Cari Barang</a></p>
+                    </div>
+        </div>
+      </div>
+    </section>
+
     <section class="ftco-section">
     	<div class="container">
     		<div class="row justify-content-center">
@@ -408,6 +526,54 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
+
+
+  <script>
+        $(document).ready(function(){
+
+        var quantitiy=0;
+           $('.quantity-right-plus').click(function(e){
+                
+                // Stop acting like a button
+                e.preventDefault();
+                // Get the field name
+                var quantity = parseInt($('#quantity').val());
+                
+                // If is not undefined
+                    
+                    $('#quantity').val(quantity + 1);
+
+                  
+                    // Increment
+                
+            });
+
+             $('.quantity-left-minus').click(function(e){
+                // Stop acting like a button
+                e.preventDefault();
+                // Get the field name
+                var quantity = parseInt($('#quantity').val());
+                
+                // If is not undefined
+              
+                    // Increment
+                    if(quantity>0){
+                    $('#quantity').val(quantity - 1);
+                    }
+            });
+            
+        });
+    </script>
+
+    <script type="text/javascript">
+     $(function(){
+      $(".datepicker").datepicker({
+          format: 'yyyy-mm-dd',
+          autoclose: true,
+          todayHighlight: true,
+      });
+     });
+    </script>
     
   </body>
 </html>

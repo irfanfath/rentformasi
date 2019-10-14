@@ -168,49 +168,105 @@
             </div>
           </div>
           <div class="container">
-                      <div class="row justify-content-center">
-          <div class="col-md-10 mb-5 text-center">
-            <ul class="product-category">
-              <li><a href="#" class="active">Ketentuan Penyewa</a></li>
-              <li><a href="#">Ketentuan Vendor</a></li>
-              <li><a href="#">Ketentuan Transaksi</a></li>
-              <li><a href="#">Syarat Barang</a></li>
-            </ul>
-          </div>
-        </div>
-            <div class="row">
-              <div class="col-lg-8 ftco-animate">
-                <h4 class="mb-3 mt-5">Penyewa menyetujui segala ketentuan yang telah diberikan oleh pihak rentformasi yang meliputi :</h4>
-                <ol>       
-                      <li>Penyewa bertanggung jawab penuh untuk menjaga dan mengembalikan barang/jasa sesuai dengan keaadan semula saat disewakan serta sesuai waktu yang telah disepakati.</li>
-                      <li>Penyewa telah memahani dan menyetujui deskripsi, informasi, dan foto Barang yang disewakan sebelum menyewa Barang.</li>
-                      <li>Penyewa bertanggung jawab sepenuhnya atas kerusakan yang terjadi akibat kelalaian penggunaan selama masa waktu sewa.</li>
-                      <li>Penyewa sepakat untuk berkomitmen dalam perjanjian sewa menyewa yang mengikat secara hukum.</li>
-                      <li>Rentformasi hanya berperan sebagai pihak ketiga atau pihak penengah, dalam artian segala bentuk gugatan atas kondisi barang yang disewakan sepenuhnya menjadi tanggung jawab sepenuhnya antara penyewa dan vendor.</li>
-                      <li>Penyewa berhak mengajukan permintaan informasi yang dibutuhkan mengenai vendor dengan prosedur yang berlaku di Rentformasi dan pihak Rentformasi memiliki hak penuh untuk menindaklanjuti berdasarkan ketentuan hukum dan peraturan perundang - undangan yang berlaku mengenai perlindungan data pribadi. Serta pihak Rentformasi berhak untuk mengajukan gugatan apabila terjadi penyalagunaan informasi. </li>            
-                </ol>
-     
-                <h4 class="mb-3 mt-5">Kewajiban Penyewa</h4>
-                <ol>       
-                      <li>Membaca dan mengikuti petunjuk informasi prosedur penggunaan serta pemanfaatan barang atau jasa, demi keamanan dan keselamatan.</li>
-                      <li>Membayar biaya sewa sesuai harga yang telah disepakati.</li>
-                      <li>Bertanggung jawab atas barang/jasa </li>
-                      <li>Penyewa sepakat untuk berkomitmen dalam perjanjian sewa menyewa yang mengikat secara hukum.</li>
-                      <li>Rentformasi hanya berperan sebagai pihak ketiga atau pihak penengah, dalam artian segala bentuk gugatan atas kondisi barang yang disewakan sepenuhnya menjadi tanggung jawab sepenuhnya antara penyewa dan vendor.</li>
-                      <li>Penyewa berhak mengajukan permintaan informasi yang dibutuhkan mengenai vendor dengan prosedur yang berlaku di Rentformasi dan pihak Rentformasi memiliki hak penuh untuk menindaklanjuti berdasarkan ketentuan hukum dan peraturan perundang - undangan yang berlaku mengenai perlindungan data pribadi. Serta pihak Rentformasi berhak untuk mengajukan gugatan apabila terjadi penyalagunaan informasi. </li>            
-                </ol>
+              <div class="row justify-content-center">
+                <div class="col-md-10 mb-5 text-center">
+                  <ul class="product-category">
+                    <li><a class="tablinks" onclick="openCity(event, 'tab1')">Ketentuan Penyewa</a></li>
+                    <li><a class="tablinks" onclick="openCity(event, 'tab2')">Ketentuan Vendor</a></li>
+                    <li><a class="tablinks" onclick="openCity(event, 'tab3')">Ketentuan Transaksi</a></li>
+                    <li><a class="tablinks" onclick="openCity(event, 'tab4')">Syarat Barang</a></li>
+                  </ul>
+                </div>
+              </div>
 
-                <h4 class="mb-3 mt-5">Hak Penyewa</h4>
-                <ol>       
-                      <li>Membaca dan mengikuti petunjuk informasi prosedur penggunaan serta pemanfaatan barang atau jasa, demi keamanan dan keselamatan.</li>
-                      <li>Membayar biaya sewa sesuai harga yang telah disepakati.</li>
-                      <li>Bertanggung jawab atas barang/jasa </li>
-                      <li>Penyewa sepakat untuk berkomitmen dalam perjanjian sewa menyewa yang mengikat secara hukum.</li>
-                      <li>Rentformasi hanya berperan sebagai pihak ketiga atau pihak penengah, dalam artian segala bentuk gugatan atas kondisi barang yang disewakan sepenuhnya menjadi tanggung jawab sepenuhnya antara penyewa dan vendor.</li>
-                      <li>Penyewa berhak mengajukan permintaan informasi yang dibutuhkan mengenai vendor dengan prosedur yang berlaku di Rentformasi dan pihak Rentformasi memiliki hak penuh untuk menindaklanjuti berdasarkan ketentuan hukum dan peraturan perundang - undangan yang berlaku mengenai perlindungan data pribadi. Serta pihak Rentformasi berhak untuk mengajukan gugatan apabila terjadi penyalagunaan informasi. </li>            
-                </ol>
-              </div> <!-- .col-md-8 -->
-            </div>
+              <div id="tab1" class="tabcontent">
+                <div class="row">
+                  <div class="col-lg-8 ftco-animate">
+                    <h4 class="mb-3 mt-5">Penyewa menyetujui segala ketentuan yang telah diberikan oleh pihak rentformasi yang meliputi :</h4>
+                    <ol>       
+                          <li>Penyewa bertanggung jawab penuh untuk menjaga dan mengembalikan barang/jasa sesuai dengan keaadan semula saat disewakan serta sesuai waktu yang telah disepakati.</li>
+                          <li>Penyewa telah memahani dan menyetujui deskripsi, informasi, dan foto Barang yang disewakan sebelum menyewa Barang.</li>
+                          <li>Penyewa bertanggung jawab sepenuhnya atas kerusakan yang terjadi akibat kelalaian penggunaan selama masa waktu sewa.</li>
+                          <li>Penyewa sepakat untuk berkomitmen dalam perjanjian sewa menyewa yang mengikat secara hukum.</li>
+                          <li>Rentformasi hanya berperan sebagai pihak ketiga atau pihak penengah, dalam artian segala bentuk gugatan atas kondisi barang yang disewakan sepenuhnya menjadi tanggung jawab sepenuhnya antara penyewa dan vendor.</li>
+                          <li>Penyewa berhak mengajukan permintaan informasi yang dibutuhkan mengenai vendor dengan prosedur yang berlaku di Rentformasi dan pihak Rentformasi memiliki hak penuh untuk menindaklanjuti berdasarkan ketentuan hukum dan peraturan perundang - undangan yang berlaku mengenai perlindungan data pribadi. Serta pihak Rentformasi berhak untuk mengajukan gugatan apabila terjadi penyalagunaan informasi. </li>            
+                    </ol>
+         
+                    <h4 class="mb-3 mt-5">Kewajiban Penyewa</h4>
+                    <ol>       
+                          <li>Membaca dan mengikuti petunjuk informasi prosedur penggunaan serta pemanfaatan barang atau jasa, demi keamanan dan keselamatan.</li>
+                          <li>Membayar biaya sewa sesuai harga yang telah disepakati.</li>
+                          <li>Bertanggung jawab atas barang/jasa </li>
+                          <li>Penyewa sepakat untuk berkomitmen dalam perjanjian sewa menyewa yang mengikat secara hukum.</li>
+                          <li>Rentformasi hanya berperan sebagai pihak ketiga atau pihak penengah, dalam artian segala bentuk gugatan atas kondisi barang yang disewakan sepenuhnya menjadi tanggung jawab sepenuhnya antara penyewa dan vendor.</li>
+                          <li>Penyewa berhak mengajukan permintaan informasi yang dibutuhkan mengenai vendor dengan prosedur yang berlaku di Rentformasi dan pihak Rentformasi memiliki hak penuh untuk menindaklanjuti berdasarkan ketentuan hukum dan peraturan perundang - undangan yang berlaku mengenai perlindungan data pribadi. Serta pihak Rentformasi berhak untuk mengajukan gugatan apabila terjadi penyalagunaan informasi. </li>            
+                    </ol>
+
+                    <h4 class="mb-3 mt-5">Hak Penyewa</h4>
+                    <ol>       
+                          <li>Membaca dan mengikuti petunjuk informasi prosedur penggunaan serta pemanfaatan barang atau jasa, demi keamanan dan keselamatan.</li>
+                          <li>Membayar biaya sewa sesuai harga yang telah disepakati.</li>
+                          <li>Bertanggung jawab atas barang/jasa </li>
+                          <li>Penyewa sepakat untuk berkomitmen dalam perjanjian sewa menyewa yang mengikat secara hukum.</li>
+                          <li>Rentformasi hanya berperan sebagai pihak ketiga atau pihak penengah, dalam artian segala bentuk gugatan atas kondisi barang yang disewakan sepenuhnya menjadi tanggung jawab sepenuhnya antara penyewa dan vendor.</li>
+                          <li>Penyewa berhak mengajukan permintaan informasi yang dibutuhkan mengenai vendor dengan prosedur yang berlaku di Rentformasi dan pihak Rentformasi memiliki hak penuh untuk menindaklanjuti berdasarkan ketentuan hukum dan peraturan perundang - undangan yang berlaku mengenai perlindungan data pribadi. Serta pihak Rentformasi berhak untuk mengajukan gugatan apabila terjadi penyalagunaan informasi. </li>            
+                    </ol>
+                  </div> <!-- .col-md-8 -->
+                </div>
+              </div>
+
+              <div id="tab2" class="tabcontent">
+                <div class="row">
+                  <div class="col-lg-8 ftco-animate">
+                    <h4 class="mb-3 mt-5">Vendor menyetujui segala ketentuan yang telah diberikan oleh pihak rentformasi yang meliputi :</h4>
+                    <ol>       
+                          <li>Penyewa bertanggung jawab penuh untuk menjaga dan mengembalikan barang/jasa sesuai dengan keaadan semula saat disewakan serta sesuai waktu yang telah disepakati.</li>
+                          <li>Penyewa telah memahani dan menyetujui deskripsi, informasi, dan foto Barang yang disewakan sebelum menyewa Barang.</li>
+                          <li>Penyewa bertanggung jawab sepenuhnya atas kerusakan yang terjadi akibat kelalaian penggunaan selama masa waktu sewa.</li>
+                          <li>Penyewa sepakat untuk berkomitmen dalam perjanjian sewa menyewa yang mengikat secara hukum.</li>
+                          <li>Rentformasi hanya berperan sebagai pihak ketiga atau pihak penengah, dalam artian segala bentuk gugatan atas kondisi barang yang disewakan sepenuhnya menjadi tanggung jawab sepenuhnya antara penyewa dan vendor.</li>
+                          <li>Penyewa berhak mengajukan permintaan informasi yang dibutuhkan mengenai vendor dengan prosedur yang berlaku di Rentformasi dan pihak Rentformasi memiliki hak penuh untuk menindaklanjuti berdasarkan ketentuan hukum dan peraturan perundang - undangan yang berlaku mengenai perlindungan data pribadi. Serta pihak Rentformasi berhak untuk mengajukan gugatan apabila terjadi penyalagunaan informasi. </li>            
+                    </ol>
+         
+                    <h4 class="mb-3 mt-5">Kewajiban Penyewa</h4>
+                    <ol>       
+                          <li>Membaca dan mengikuti petunjuk informasi prosedur penggunaan serta pemanfaatan barang atau jasa, demi keamanan dan keselamatan.</li>
+                          <li>Membayar biaya sewa sesuai harga yang telah disepakati.</li>
+                          <li>Bertanggung jawab atas barang/jasa </li>
+                          <li>Penyewa sepakat untuk berkomitmen dalam perjanjian sewa menyewa yang mengikat secara hukum.</li>
+                          <li>Rentformasi hanya berperan sebagai pihak ketiga atau pihak penengah, dalam artian segala bentuk gugatan atas kondisi barang yang disewakan sepenuhnya menjadi tanggung jawab sepenuhnya antara penyewa dan vendor.</li>
+                          <li>Penyewa berhak mengajukan permintaan informasi yang dibutuhkan mengenai vendor dengan prosedur yang berlaku di Rentformasi dan pihak Rentformasi memiliki hak penuh untuk menindaklanjuti berdasarkan ketentuan hukum dan peraturan perundang - undangan yang berlaku mengenai perlindungan data pribadi. Serta pihak Rentformasi berhak untuk mengajukan gugatan apabila terjadi penyalagunaan informasi. </li>            
+                    </ol>
+
+                    <h4 class="mb-3 mt-5">Hak Penyewa</h4>
+                    <ol>       
+                          <li>Membaca dan mengikuti petunjuk informasi prosedur penggunaan serta pemanfaatan barang atau jasa, demi keamanan dan keselamatan.</li>
+                          <li>Membayar biaya sewa sesuai harga yang telah disepakati.</li>
+                          <li>Bertanggung jawab atas barang/jasa </li>
+                          <li>Penyewa sepakat untuk berkomitmen dalam perjanjian sewa menyewa yang mengikat secara hukum.</li>
+                          <li>Rentformasi hanya berperan sebagai pihak ketiga atau pihak penengah, dalam artian segala bentuk gugatan atas kondisi barang yang disewakan sepenuhnya menjadi tanggung jawab sepenuhnya antara penyewa dan vendor.</li>
+                          <li>Penyewa berhak mengajukan permintaan informasi yang dibutuhkan mengenai vendor dengan prosedur yang berlaku di Rentformasi dan pihak Rentformasi memiliki hak penuh untuk menindaklanjuti berdasarkan ketentuan hukum dan peraturan perundang - undangan yang berlaku mengenai perlindungan data pribadi. Serta pihak Rentformasi berhak untuk mengajukan gugatan apabila terjadi penyalagunaan informasi. </li>            
+                    </ol>
+                  </div> <!-- .col-md-8 -->
+                </div>
+              </div>
+
+              <script>
+              function openCity(evt, cityName) {
+                var i, tabcontent, tablinks;
+                tabcontent = document.getElementsByClassName("tabcontent");
+                for (i = 0; i < tabcontent.length; i++) {
+                  tabcontent[i].style.display = "none";
+                }
+                tablinks = document.getElementsByClassName("tablinks");
+                for (i = 0; i < tablinks.length; i++) {
+                  tablinks[i].className = tablinks[i].className.replace(" active", "");
+                }
+                document.getElementById(cityName).style.display = "block";
+                evt.currentTarget.className += " active";
+              }
+              </script>
+
           </div>
         </section> <!-- .section -->
 
