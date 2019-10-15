@@ -11,7 +11,6 @@
 	            <div class="col-md-12 ftco-animate text-center">
 	              <h1 class="mb-2">Penuhi Kebutuhan Dengan Biaya Terjangkau</h1>
 	              <h2 class="subheading mb-4">Kita hanya mengantarkan produk berkualitas terbaik</h2>
-	              <p><a href="#" class="btn btn-primary">Lihat Detail</a></p>
 	            </div>
 
 	          </div>
@@ -26,7 +25,6 @@
 	            <div class="col-sm-12 ftco-animate text-center">
 	              <h1 class="mb-2">100% Aman Dan Nyaman</h1>
 	              <h2 class="subheading mb-4">Temukan potensi sumber daya terbaik untuk memenuhi keinginan anda </h2>
-	              <p><a href="#" class="btn btn-primary">Lihat Detail</a></p>
 	            </div>
 
 	          </div>
@@ -1124,23 +1122,23 @@
     	</div>
     </section>
 		
-	<section class="ftco-section img" style="background-image: url(images/offers.png);">
+	<section class="ftco-section img" style="background-image: url(images/spesialnih.jpg);">
     	<div class="container">
 				<div class="row justify-content-end">
-          <div class="col-md-6 heading-section ftco-animate deal-of-the-day ftco-animate">
-          	<span class="subheading">Harga terbaik untuk anda</span>
-            <h2 class="mb-4">Jangan Sampai Ketinggalan</h2>
-            <p>penawaran terbaik untuk anda, waktu terbatas sekarang sewa barang bisa lebih irit</p>
-            <h3><a href="#">Alat Elektronik</a></h3>
-            <span class="price">Hot Promo <a href="#">Sewa hari ini dapat diskon 25%</a></span>
-            <div id="timer" class="d-flex mt-5">
+          			<div class="col-md-4 heading-section ftco-animate deal-of-the-day ftco-animate">
+          				<span class="subheading">Harga terbaik untuk anda</span>
+            			<h2 class="mb-4">Jangan Sampai Ketinggalan</h2>
+           				<p>penawaran terbaik untuk anda, waktu terbatas sekarang sewa barang bisa lebih irit</p>
+            			<h3><a href="#">Alat Elektronik</a></h3>
+            			<span class="price">Hot Promo <a href="#">Sewa hari ini dapat diskon hingga 25%</a></span>
+            			<div id="timer" class="d-flex mt-5">
 						  <div class="time" id="days"></div>
 						  <div class="time pl-3" id="hours"></div>
 						  <div class="time pl-3" id="minutes"></div>
 						  <div class="time pl-3" id="seconds"></div>
 						</div>
-          </div>
-        </div>   		
+          			</div>
+       			</div>   		
     	</div>
     </section>
 
