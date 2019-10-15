@@ -129,7 +129,7 @@
 									</div>
 									
 									<p><a href="#sec1"class="btn btn-primary py-7 px-1 " style="width: 120px;">Cek Ongkir</a></p>
-								</div>
+								</div> <!-- kalo udah milih nanti di box bawah keluar biaya pengiriman, jadi kalo belum di klik gausah muncul dulu biaya pengiriman -->
 	          	</div>
 	          	<div id="sec1" class="col-md-12 d-flex mb-5">
 	          		<div class="cart-detail cart-total p-3 p-md-4">
@@ -186,7 +186,7 @@
 									</div>
 									
 									<p><a href="pembayaran.php"class="btn btn-primary py-3 px-4">Bayar</a></p>
-								</div>
+								</div> <!-- aktifin required buat isian harus bener, ceklis box, pilih kurir, sama metode pembayaran -->
 	          	</div>
 	          </div>
           </div> <!-- .col-md-8 -->

@@ -265,7 +265,7 @@
                                             <a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
                                                 <span><i class="ion-ios-cart"></i></span>
                                             </a>
-                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">
+                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center "> <!-- pake session login -->
                                                 <span><i class="ion-ios-heart"></i></span>
                                             </a>
                                         </div>
@@ -291,7 +291,7 @@
                                             <a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
                                                 <span><i class="ion-ios-cart"></i></span>
                                             </a>
-                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">
+                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center "> <!-- pake session login -->
                                                 <span><i class="ion-ios-heart"></i></span>
                                             </a>
                                         </div>
@@ -317,7 +317,7 @@
                                             <a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
                                                 <span><i class="ion-ios-cart"></i></span>
                                             </a>
-                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">
+                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center "> <!-- pake session login -->
                                                 <span><i class="ion-ios-heart"></i></span>
                                             </a>
                                         </div>

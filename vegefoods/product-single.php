@@ -87,7 +87,7 @@
 						          	</div>
           						</div>
           		<p><a href="cart.php" class="btn btn-black py-3 px-5">Sewa Sekarang</a></p>
-    		</div>
+    		</div> <!-- pake session login -->
     	</div>	
     </div>
 </section>

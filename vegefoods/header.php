@@ -51,7 +51,7 @@
               </div>
             </li>
 
-            <li class="nav-item"><a href="login.php" class="nav-link"><span class="icon-shopping_cart"></span>[0]</a></li>
+            <li class="nav-item"><a href="login.php" class="nav-link"><span class="icon-shopping_cart"></span>[0]</a></li> <!-- pake session login sap -->
             <p><a href="registvendor.php" class="btn btn-primary" style="margin-top: 15px;">Daftar Vendor</a></p>
           </ul>
         </div>
