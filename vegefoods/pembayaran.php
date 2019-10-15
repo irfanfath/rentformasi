@@ -16,7 +16,7 @@
                 <p>Harap lakukan pembayaran sebelum :</p>
                 <h4 class="mb-4 text-center">Rabu, 15 Oktober 2019 Pukul 08.00 WIB</h4>
                 <p>Lakukan Konfirmasi setelah melakukan pembayaran dan upload bukti pembayaran</p>
-                        <p><a href="#" class="btn btn-primary py-3 px-4">Konfirmasi Pembayaran</a></p>
+                        <p><a href="konfirmasi.php" class="btn btn-primary py-3 px-4">Konfirmasi Pembayaran</a></p>
 
             </div>
     </div>

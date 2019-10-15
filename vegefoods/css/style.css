@@ -9199,7 +9199,8 @@ textarea.form-control {
 .ftco-footer {
   font-size: 14px;
   padding: 7em 0;
-  color: #000000; }
+  color: #000000; 
+  background-color: #f7f6f2 !important}
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
     letter-spacing: .1em; }
@@ -10373,4 +10374,40 @@ textarea.form-control {
     padding-left: 15px;
     padding-right: 15px;
   }
+}
+
+.buatscroll {
+background-color: #777;
+color: white;
+cursor: pointer;
+padding: 18px;
+width: 100%;
+border: none;
+text-align: left;
+outline: none;
+font-size: 15px;
+}
+
+.activescroll, .buatscroll:hover {
+ background-color: #555;
+}
+
+.buatscroll:after {
+content: '\002B'; (tanda plus ini)
+color: white;
+font-weight: bold;
+float: right;
+margin-left: 5px;
+}
+
+.activescroll:after {
+content: "\2212";
+}
+
+.contentscroll {
+padding: 0 18px;
+max-height: 0;
+overflow: hidden;
+transition: max-height 0.2s ease-out;
+background-color: #f1f1f1;
 }

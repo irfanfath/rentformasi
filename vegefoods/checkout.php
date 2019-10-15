@@ -185,7 +185,7 @@
 										</div>
 									</div>
 									
-									<p><a href="#"class="btn btn-primary py-3 px-4">Bayar</a></p>
+									<p><a href="pembayaran.php"class="btn btn-primary py-3 px-4">Bayar</a></p>
 								</div>
 	          	</div>
 	          </div>
