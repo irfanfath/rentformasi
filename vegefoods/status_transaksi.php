@@ -17,7 +17,7 @@
                     </div>
 
                     <div class="pt-5 mt-5">
-                              <h3 class="mb-5">Status Transaksi</h3>
+                              <h2 class="mb-5 text-center" style="color: #82ae46">Status Transaksi</h2>
                               <ul class="comment-list">
                                 <li class="comment">
                                   <div class="vcard bio">

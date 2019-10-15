@@ -8,7 +8,7 @@
     </div>
 
     <div class="col-md-12 heading-section text-center ftco-animate">
-        <p><a href="#" class="btn btn-primary py-3 px-4">Lihat Status Transaksi</a></p>
+        <p><a href="status_transaksi.php" class="btn btn-primary py-3 px-4">Lihat Status Transaksi</a></p>
     </div>
 
 <br>

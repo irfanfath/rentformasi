@@ -1157,7 +1157,7 @@
               	<div class="item">
 	                <div class="testimony-wrap p-4 pb-5">
 	                  <div class="col-sm ftco-animate">
-	    				<a href="#" class="partner"><img src="images/diskon.jpg" class="img-fluid" alt="Colorlib Template"></a>
+	    				<a href="voucher.php" class="partner"><img src="images/diskon.jpg" class="img-fluid" alt="Colorlib Template"></a>
 	    			  </div>
 	                  <div class="text text-center">
 	                    <p class="mb-5 pl-4 line">Dapatkan potongan harga hinggal 20% dengan transaksi minimal 50.000 bagi pengguna baru</p>
@@ -1169,7 +1169,7 @@
               	<div class="item">
 	                <div class="testimony-wrap p-4 pb-5">
 	                  <div class="col-sm ftco-animate">
-	    				<a href="#" class="partner"><img src="images/diskon.jpg" class="img-fluid" alt="Colorlib Template"></a>
+	    				<a href="voucher.php" class="partner"><img src="images/diskon.jpg" class="img-fluid" alt="Colorlib Template"></a>
 	    			  </div>
 	                  <div class="text text-center">
 	                    <p class="mb-5 pl-4 line">Dapatkan potongan harga hinggal 20% dengan transaksi minimal 50.000 bagi pengguna baru</p>
@@ -1181,7 +1181,7 @@
               	<div class="item">
 	                <div class="testimony-wrap p-4 pb-5">
 	                  <div class="col-sm ftco-animate">
-	    				<a href="#" class="partner"><img src="images/diskon.jpg" class="img-fluid" alt="Colorlib Template"></a>
+	    				<a href="voucher.php" class="partner"><img src="images/diskon.jpg" class="img-fluid" alt="Colorlib Template"></a>
 	    			  </div>
 	                  <div class="text text-center">
 	                    <p class="mb-5 pl-4 line">Dapatkan potongan harga hinggal 20% dengan transaksi minimal 50.000 bagi pengguna baru</p>

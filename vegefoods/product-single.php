@@ -5,8 +5,31 @@
 <section class="ftco-section">
    	<div class="container">
     	<div class="row">
+
     		<div class="col-lg-6 mb-5 ftco-animate">
-    				<a href="images/product-1.jpg" class="image-popup"><img src="images/produk-mobil.jpg" class="img-fluid" alt="Colorlib Template"></a>
+    			<a href="images/produk-mobil.jpg" class="image-popup"><img src="images/produk-mobil.jpg" class="img-fluid" alt="Colorlib Template"></a>
+    			<div class="about-author d-flex p-4 bg-light" style="margin-top: 40px;">
+                            <div class="bio align-self-md-center mr-4">
+                                <img src="images/person_1.jpg" alt="Image placeholder" class="img-fluid mb-4">
+                            </div>
+                            <div class="desc align-self-md-center">
+                                <h3>Car Rent Euy</h3>
+                                <p>Apabila ada pertanyaan silahkan hubungi kami melalui layanan chat kami, kami akan segera memberikan respon secepatnya</p>
+                                <div class="rating d-flex">
+									<p class="text-left mr-3">
+										<a href="#" class="mr-2">5.0</a>
+										<a href="#"><span class="ion-ios-star-outline"></span></a>
+										<a href="#"><span class="ion-ios-star-outline"></span></a>
+										<a href="#"><span class="ion-ios-star-outline"></span></a>
+										<a href="#"><span class="ion-ios-star-outline"></span></a>
+										<a href="#"><span class="ion-ios-star-outline"></span></a>
+									</p>			
+									<p class="text-left">
+										<a href="#" class="mr-2" style="color: #000;">500 <span style="color: #bbb;">transaksi</span></a>
+									</p>
+								</div>
+                            </div>
+                </div>
     		</div>
 
     		<div class="col-lg-6 product-details pl-md-5 ftco-animate">
@@ -88,6 +111,7 @@
           						</div>
           		<p><a href="cart.php" class="btn btn-black py-3 px-5">Sewa Sekarang</a></p>
     		</div> <!-- pake session login -->
+
     	</div>	
     </div>
 </section>
