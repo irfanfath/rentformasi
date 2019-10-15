@@ -24,6 +24,12 @@
                                 <div class="row mt-4">
                                     <div class="col-md-12">
                                         <div class="form-group">
+                                            <label for="namabarang" style="color: #000">Nama Jasa</label>
+                                          <input type="text" class="form-control" placeholder="kata kunci">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group">
                                             <label for="country" style="color: #000">Pilih Lokasi</label>
                                             <div class="select-wrap">
                                                 <div class="icon"><span class="ion-ios-arrow-down"></span></div>
@@ -38,7 +44,6 @@
                                             </div>
                                         </div>
                                     </div>
-
                                     <div class="col-md-12">
                                         <div class="form-group">
                                             <label for="country" style="color: #000">Pilih Kategori Barang</label>
