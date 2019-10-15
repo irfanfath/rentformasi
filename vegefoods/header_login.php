@@ -44,18 +44,17 @@
             <li class="nav-item"><a href="jasa.php" class="nav-link">Sewa Jasa</a></li>
             <li class="nav-item"><a href="about.php" class="nav-link">Tentang Kami</a></li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Akun Saya</a>
+              <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Hai, Irfan</a>
               <div class="dropdown-menu" aria-labelledby="dropdown04">
-                <a class="dropdown-item" href="login.php">Login</a>
-                <a class="dropdown-item" href="signup.php">Register</a>
+                <a class="dropdown-item" href="login.php">Lihat Status Transaksi</a>
+                <a class="dropdown-item" href="signup.php">Logout</a>
               </div>
             </li>
 
-            <li class="nav-item"><a href="login.php" class="nav-link"><span class="icon-shopping_cart"></span>[0]</a></li>
-            <p><a href="registvendor.php" class="btn btn-primary" style="margin-top: 15px;">Daftar Vendor</a></p>
+            <li class="nav-item"><a href="cart.php" class="nav-link"><span class="icon-shopping_cart"></span>[0]</a></li>
           </ul>
         </div>
       </div>
-            
+            <p><a href="registvendor.php" class="btn btn-primary" style="margin-top: 20px; margin-right: 20px;">Daftar Vendor</a></p>
 
     </nav>

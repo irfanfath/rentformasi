@@ -11,150 +11,13 @@
       </div>
     </div>
 
-<section class="ftco-section ftco-no-pt ftco-no-pb py-5 bg-light">
-      <div class="container py-4">
-        <div class="row d-flex justify-content-center py-5">
-                    <div class="col-lg-6 product-details pl-md-5 ftco-animate">
-                        <div class="hero-wrap hero-bread" style="background-image: url('images/desain.png'); margin-top: 90px;">
-                        </div>
-                        <!-- isi sama gambar -->
-                    </div>
-
-                    <div class="col-lg-6 product-details pl-md-5 ftco-animate">
-                                <div class="row mt-4">
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <label for="country" style="color: #000">Pilih Lokasi</label>
-                                            <div class="select-wrap">
-                                                <div class="icon"><span class="ion-ios-arrow-down"></span></div>
-                                                  <select name="" id="" class="form-control">
-                                                    <option value="">Bandung</option>
-                                                    <option value="">Jakarta</option>
-                                                    <option value="">Surabaya</option>
-                                                    <option value="">Yogyakarta</option>
-                                                    <option value="">Bali</option>
-                                                    <option value="">Lombok</option>
-                                                  </select>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <label for="country" style="color: #000">Pilih Kategori Barang</label>
-                                            <div class="select-wrap">
-                                                <div class="icon"><span class="ion-ios-arrow-down"></span></div>
-                                                  <select name="" id="" class="form-control">
-                                                    <option value="">Mobil & Motor</option>
-                                                    <option value="">Alat Elektronik</option>
-                                                    <option value="">Fashion</option>
-                                                    <option value="">Alat Berat</option>
-                                                    <option value="">Apartemen & Hotel</option>
-                                                    <option value="">Hobi</option>
-                                                  </select>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-12">
-                                        <p style="color: #000;">Tanggal Sewa</p>
-                                    </div>
-                                        <div class="col-md-6">
-                                            <div class="form-group">
-                                                <div class="select-wrap">
-                                                    <div class="icon"><span class="ion-ios-arrow-down"></span></div>
-                                                        <div class="input-group date">
-                                                            <div class="input-group-addon">
-                                                                <span class="glyphicon glyphicon-th"></span>
-                                                            </div>
-                                                                <input placeholder="Mulai Sewa" type="text" class="form-control datepicker" name="tgl_awal">
-                                                        </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-md-6">
-                                            <div class="form-group">
-                                                <div class="select-wrap">
-                                                    <div class="icon"><span class="ion-ios-arrow-down"></span></div>
-                                                        <div class="input-group date">
-                                                            <div class="input-group-addon">
-                                                                <span class="glyphicon glyphicon-th"></span>
-                                                            </div>
-                                                                <input placeholder="Selesai Sewa" type="text" class="form-control datepicker" name="tgl_akhir">
-                                                        </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-md-6">
-                                            <p style="color: #000;">Jumlah Sewa</p>
-                                        </div>
-                                        <div class="w-100"></div>
-                                            <div class="input-group col-md-6 d-flex mb-3">
-                                                <span class="input-group-btn mr-2">
-                                                    <button type="button" class="quantity-left-minus btn"  data-type="minus" data-field="">
-                                                    <i class="ion-ios-remove"></i>
-                                                    </button>
-                                                </span>
-                                                    <input type="text" id="quantity" name="quantity" class="form-control input-number" value="1" min="1" max="100">
-                                                <span class="input-group-btn ml-2">
-                                                    <button type="button" class="quantity-right-plus btn" data-type="plus" data-field="">
-                                                     <i class="ion-ios-add"></i>
-                                                    </button>
-                                                </span>
-                                            </div>
-                                        <div class="w-100"></div>  
-
-                                        <div class="col-md-6">
-                                            <div class="form-group">
-                                                <label for="country" style="color: #000">Kisaran Harga</label>
-                                                <div class="select-wrap">
-                                                    <div class="icon"><span class="ion-ios-arrow-down"></span></div>
-                                                      <select name="" id="" class="form-control">
-                                                        <option value="">>Rp. 100.000</option>
-                                                        <option value="">Rp. 100.000 - Rp. 300.000</option>
-                                                        <option value="">Rp. 300.000 - Rp. 500.000</option>
-                                                        <option value="">Rp. 500.000 - Rp. 800.000</option>
-                                                        <option value="">Rp. 800.000 - Rp. 1.500.000</option>
-                                                        <option value="">Rp. 1.500.000 - Rp. 2.000.000</option>
-                                                        <option value="">Rp. 2.000.000 - Rp. 5.000.000</option>
-                                                        <option value="">Rp. 5.000.000 - Rp. 10.000.000</option>
-                                                      </select>
-                                                </div>
-                                            </div>
-                                        </div> 
-
-                                        <div class="col-md-6">
-                                            <div class="form-group">
-                                                <label for="country" style="color: #000">Urutkan Berdasarkan</label>
-                                                <div class="select-wrap">
-                                                    <div class="icon"><span class="ion-ios-arrow-down"></span></div>
-                                                      <select name="" id="" class="form-control">
-                                                        <option value="">Paling Sesuai</option>
-                                                        <option value="">Paling Laris</option>
-                                                        <option value="">Rating Terbaik</option>
-                                                        <option value="">Harga Terendah</option>
-                                                        <option value="">Harga Tertinggi</option>
-                                                      </select>
-                                                </div>
-                                            </div>
-                                        </div>        
-                                </div>
-                                <br>
-                                <p><a href="hasil_pencarian.php" class="btn btn-black py-3 px-5">Cari Barang</a></p>
-                    </div>
-        </div>
-      </div>
-</section>
-
 
 <section class="ftco-section ftco-degree-bg">
     <div class="container">
             <div class="row justify-content-center mb-3 pb-3">
               <div class="col-md-12 heading-section text-center ftco-animate">
                 <span class="subheading">Barang terpopuler</span>
-                <h2 class="mb-4">Tersedia Saat Ini</h2>
+                <h2 class="mb-4">Hasil Pencarian Anda</h2>
                 <p>Penuhi kebutuhan anda tanpa harus mengeluarkan banyak biaya</p>
               </div>
             </div>          
@@ -506,13 +369,13 @@
                               </form>
                             </div>
                             <div class="sidebar-box ftco-animate">
-                              <h3 class="heading">Kategori</h3>
+                              <h3 class="heading">Lokasi</h3>
                               <ul class="categories">
                                 <li><a href="#">Semua <span>(77)</span></a></li>
-                                <li><a href="#">Mobil & Motor <span>(12)</span></a></li>
-                                <li><a href="#">Alat Berat <span>(22)</span></a></li>
-                                <li><a href="#">Alat Elektronik <span>(37)</span></a></li>
-                                <li><a href="#">Hobi <span>(42)</span></a></li>
+                                <li><a href="#">Jawa Barat <span>(12)</span></a></li>
+                                <li><a href="#">Jawa Tengah <span>(22)</span></a></li>
+                                <li><a href="#">Jawa Timur <span>(37)</span></a></li>
+                                <li><a href="#">Jabodetabek <span>(42)</span></a></li>
                               </ul>
                             </div>
 

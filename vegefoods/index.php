@@ -224,17 +224,29 @@
 
     <section class="ftco-section">
     	<div class="container">
-			<div class="row justify-content-center mb-3 pb-3">
-	          <div class="col-md-12 heading-section text-center ftco-animate">
-	          	<span class="subheading">Barang terpopuler</span>
-	            <h2 class="mb-4">Tersedia Saat Ini</h2>
-	            <p>Penuhi kebutuhan anda tanpa harus mengeluarkan banyak biaya</p>
-	          </div>
-        	</div>   		
-    	</div>
+    		<div class="row justify-content-center">
+                    <div class="col-md-12 heading-section text-center ftco-animate">
+                        <span class="subheading">Barang terpopuler</span>
+                            <h3 class="mb-4">Paling Banyak Disewa</h3>
+                                
+                    </div>
+                <div class="col-md-10 mb-5 text-center">
+                    <ul class="nav product-category justify-content-center">
+                        <li><a class="active" data-toggle="tab" href="#all">All</a></li>
+                        <li><a data-toggle="tab" href="#home">Mobil & Motor</a></li>
+                        <li><a data-toggle="tab" href="#menu1">Alat Elektronik</a></li>
+                        <li><a data-toggle="tab" href="#menu2">Alat Berat</a></li>
+                        <li><a data-toggle="tab" href="#menu3">Hobi</a></li>
+                    </ul>
+                </div>
+            </div>
 
-    	<div class="container">
-    		<div class="row">
+            <br>
+
+            <div class="tab-content">
+
+                <div id="all" class="tab-pane fade show active">
+                    <div class="row">
                         <div class="col-md-6 col-lg-3 ftco-animate">
                             <div class="product">
                                 <a href="product-single.php" class="img-prod"><img class="img-fluid" src="images/produk-mobil.jpg" alt="Colorlib Template">
@@ -652,6 +664,462 @@
                             </div>
                         </div>
                     
+                    </div>
+                </div>
+
+                <div id="home" class="tab-pane fade">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="product-single.php" class="img-prod"><img class="img-fluid" src="images/produk-mobil.jpg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="product-single.php">Avanza</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 350.000</span><span class="price-sale">Rp. 250.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="product-single.php" class="img-prod"><img class="img-fluid" src="images/produk-mobil.jpg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="product-single.php">Avanza</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 350.000</span><span class="price-sale">Rp. 250.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="product-single.php" class="img-prod"><img class="img-fluid" src="images/produk-mobil.jpg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="product-single.php">Avanza</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 350.000</span><span class="price-sale">Rp. 250.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="product-single.php" class="img-prod"><img class="img-fluid" src="images/produk-mobil.jpg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="product-single.php">Avanza</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 350.000</span><span class="price-sale">Rp. 250.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="menu1" class="tab-pane fade">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="#" class="img-prod"><img class="img-fluid" src="images/ht.jpg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="#">Handy Talkie</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 12.000</span><span class="price-sale">Rp. 10.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="#" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="#" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="#" class="img-prod"><img class="img-fluid" src="images/ht.jpg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="#">Handy Talkie</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 12.000</span><span class="price-sale">Rp. 10.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="#" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="#" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="#" class="img-prod"><img class="img-fluid" src="images/ht.jpg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="#">Handy Talkie</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 12.000</span><span class="price-sale">Rp. 10.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="#" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="#" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="#" class="img-prod"><img class="img-fluid" src="images/ht.jpg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="#">Handy Talkie</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 12.000</span><span class="price-sale">Rp. 10.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="#" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="#" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="menu2" class="tab-pane fade">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="product-single.php" class="img-prod"><img class="img-fluid" src="images/alatberat.jpeg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="product-single.php">Excavator</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 350.000.000</span><span class="price-sale">Rp. 250.000.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="product-single.php" class="img-prod"><img class="img-fluid" src="images/alatberat.jpeg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="product-single.php">Excavator</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 350.000.000</span><span class="price-sale">Rp. 250.000.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="product-single.php" class="img-prod"><img class="img-fluid" src="images/alatberat.jpeg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="product-single.php">Excavator</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 350.000.000</span><span class="price-sale">Rp. 250.000.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="product-single.php" class="img-prod"><img class="img-fluid" src="images/alatberat.jpeg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="product-single.php">Excavator</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 350.000.000</span><span class="price-sale">Rp. 250.000.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="menu3" class="tab-pane fade">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="product-single.php" class="img-prod"><img class="img-fluid" src="images/kamera.jpg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="product-single.php">Camera Sony</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 35.000</span><span class="price-sale">Rp. 25.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="product-single.php" class="img-prod"><img class="img-fluid" src="images/kamera.jpg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="product-single.php">Camera Sony</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 35.000</span><span class="price-sale">Rp. 25.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="product-single.php" class="img-prod"><img class="img-fluid" src="images/kamera.jpg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="product-single.php">Camera Sony</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 35.000</span><span class="price-sale">Rp. 25.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 ftco-animate">
+                            <div class="product">
+                                <a href="product-single.php" class="img-prod"><img class="img-fluid" src="images/kamera.jpg" alt="Colorlib Template">
+                                    <span class="status">30%</span>
+                                    <div class="overlay"></div>
+                                </a>
+                                <div class="text py-3 pb-4 px-3 text-center">
+                                    <h3><a href="product-single.php">Camera Sony</a></h3>
+                                    <div class="d-flex">
+                                        <div class="pricing">
+                                            <p class="price"><span class="mr-2 price-dc">Rp. 35.000</span><span class="price-sale">Rp. 25.000</span></p>
+                                        </div>
+                                    </div>
+                                    <div class="bottom-area d-flex px-3">
+                                        <div class="m-auto d-flex">
+                                            <a href="product-single.php" class="buy-now d-flex justify-content-center align-items-center mx-1">
+                                                <span><i class="ion-ios-cart"></i></span>
+                                            </a>
+                                            <a href="wishlist.php" class="heart d-flex justify-content-center align-items-center ">
+                                                <span><i class="ion-ios-heart"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+    		<div class="row mt-5">
+                <div class="col text-center">
+                    <div class="block-27">
+                          <ul>
+                            <li><a href="#">&lt;</a></li>
+                            <li class="active"><span>1</span></li>
+                            <li><a href="#">2</a></li>
+                            <li><a href="#">3</a></li>
+                            <li><a href="#">4</a></li>
+                            <li><a href="#">5</a></li>
+                            <li><a href="#">&gt;</a></li>
+                          </ul>
+                    </div>
+                </div>
             </div>
     	</div>
     </section>
