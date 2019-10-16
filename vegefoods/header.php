@@ -48,6 +48,10 @@
               <div class="dropdown-menu" aria-labelledby="dropdown04">
                 <a class="dropdown-item" href="login.php">Login</a>
                 <a class="dropdown-item" href="signup.php">Register</a>
+                <a class="dropdown-item" href="profile_konsumen.php">Profile Saya (kalo udah login muncul menu ini)</a>
+                <a class="dropdown-item" href="pesan.php">Pesan (kalo udah login muncul menu ini)</a>
+                <a class="dropdown-item" href="lihat_transaksi.php">Lihat Status Transaksi (kalo udah login muncul menu ini)</a>
+                <a class="dropdown-item" href="logout.php">Logout (kalo udah login muncul menu ini)</a>
               </div>
             </li>
 
