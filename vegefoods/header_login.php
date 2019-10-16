@@ -46,6 +46,8 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Hai, Irfan</a>
               <div class="dropdown-menu" aria-labelledby="dropdown04">
+                <a class="dropdown-item" href="#">Profile Saya</a>
+                <a class="dropdown-item" href="#">Pesan</a>
                 <a class="dropdown-item" href="#">Lihat Status Transaksi</a>
                 <a class="dropdown-item" href="#">Logout</a>
               </div>
