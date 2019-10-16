@@ -39,8 +39,8 @@
 
 			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-1 active d-flex justify-content-center align-items-center mb-2">
-			            		<span class="flaticon-shipped"></span>
+			              <div class="icon bg-color-2 active d-flex justify-content-center align-items-center mb-2">
+			            		<img src="https://img.icons8.com/dotty/80/000000/car.png" style="width: 50px;">
 			              </div>
 			              <div class="media-body">
 			                <h3 class="heading">Mobil & Motor</h3>
@@ -51,7 +51,7 @@
 			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
 			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-			            		<span class="flaticon-diet"></span>
+			            		<img src="https://img.icons8.com/wired/64/000000/cell-phone.png" style="width: 50px;">
 			              </div>
 			              <div class="media-body">
 			                <h3 class="heading">Alat Elektronik</h3>
@@ -61,8 +61,8 @@
 			        </div>
 			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-3 d-flex justify-content-center align-items-center mb-2">
-			            		<span class="flaticon-award"></span>
+			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+			            		<img src="https://img.icons8.com/wired/64/000000/tractor.png" style="width: 50px;">
 			              </div>
 			              <div class="media-body">
 			                <h3 class="heading">Alat Berat</h3>
@@ -72,8 +72,8 @@
 			        </div>
 			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-4 d-flex justify-content-center align-items-center mb-2">
-			            		<span class="flaticon-customer-service"></span>
+			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+			            		<img src="https://img.icons8.com/wired/64/000000/trekking.png" style="width: 50px;">
 			              </div>
 			              <div class="media-body">
 			                <h3 class="heading">Perlengkapan Gunung</h3>
@@ -83,8 +83,8 @@
 			        </div>
 			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-4 d-flex justify-content-center align-items-center mb-2">
-			            		<span class="flaticon-customer-service"></span>
+			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+			            		<img src="https://img.icons8.com/ios/50/000000/vegan-clothing.png" style="width: 50px;">
 			              </div>
 			              <div class="media-body">
 			                <h3 class="heading">Clothing</h3>
@@ -94,8 +94,8 @@
 			        </div>
 			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-3 d-flex justify-content-center align-items-center mb-2">
-			            		<span class="flaticon-award"></span>
+			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+			            		<img src="https://img.icons8.com/dotty/80/000000/discus-throw.png" style="width: 50px;">
 			              </div>
 			              <div class="media-body">
 			                <h3 class="heading">Peralatan Olahraga</h3>
@@ -105,8 +105,8 @@
 			        </div>
 			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-3 d-flex justify-content-center align-items-center mb-2">
-			            	<span class="flaticon-award"></span>
+			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+			            	<img src="https://img.icons8.com/wired/64/000000/book.png" style="width: 50px;">
 			              </div>
 			              <div class="media-body">
 			                <h3 class="heading">Buku</h3>
@@ -116,30 +116,19 @@
 			        </div>
 			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-3 d-flex justify-content-center align-items-center mb-2">
-			            		<span class="flaticon-award"></span>
+			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+			            		<img src="https://img.icons8.com/ios/50/000000/3-star-hotel.png" style="width: 50px;">
 			              </div>
 			              <div class="media-body">
-			                <h3 class="heading">Apartemen</h3>
+			                <h3 class="heading">Properti</h3>
 			                	<span>Quality Products</span>
 			              </div>
 			            </div>      
 			        </div>
 			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-4 d-flex justify-content-center align-items-center mb-2">
-			            		<span class="flaticon-customer-service"></span>
-			              </div>
-			              <div class="media-body">
-			                <h3 class="heading">Hotel</h3>
-			                	<span>24/7 Support</span>
-			              </div>
-			            </div>      
-			        </div>
-			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
-			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-1 active d-flex justify-content-center align-items-center mb-2">
-			            		<span class="flaticon-shipped"></span>
+			              <div class="icon bg-color-2 active d-flex justify-content-center align-items-center mb-2">
+			            		<img src="https://img.icons8.com/ios/50/000000/paragliding.png" style="width: 50px;">
 			              </div>
 			              <div class="media-body">
 			                <h3 class="heading">Hobi</h3>
@@ -149,22 +138,33 @@
 			        </div>
 			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-4 d-flex justify-content-center align-items-center mb-2">
-			            		<span class="flaticon-customer-service"></span>
+			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+			            		<img src="https://img.icons8.com/wired/64/000000/champagne.png" style="width: 50px;">
 			              </div>
 			              <div class="media-body">
-			                <h3 class="heading">Perlengkapan Pesta</h3>
+			                <h3 class="heading">Perlengkapan Acara Pesta</h3>
 			                	<span>24/7 Support</span>
 			              </div>
 			            </div>      
 			        </div>
 			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
 			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-4 d-flex justify-content-center align-items-center mb-2">
-			            		<span class="flaticon-customer-service"></span>
+			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+			            		<img src="https://img.icons8.com/wired/64/000000/hammer.png" style="width: 50px;">
 			              </div>
 			              <div class="media-body">
-			                <h3 class="heading">Peralatan Perkakas</h3>
+			                <h3 class="heading">Perkakas</h3>
+			                	<span>24/7 Support</span>
+			              </div>
+			            </div>      
+			        </div>
+			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+			            <div class="media block-6 services mb-md-0 mb-4">
+			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+			            		<img src="https://img.icons8.com/wired/64/000000/find-matching-job.png" style="width: 50px;">
+			              </div>
+			              <div class="media-body">
+			                <h3 class="heading">Barang Lainnya</h3>
 			                	<span>24/7 Support</span>
 			              </div>
 			            </div>      
@@ -1193,7 +1193,7 @@
               	<div class="item">
 	                <div class="testimony-wrap p-4 pb-5">
 	                  <div class="col-sm ftco-animate">
-	    				<a href="#" class="partner"><img src="images/diskon.jpg" class="img-fluid" alt="Colorlib Template"></a>
+	    				<a href="voucher.php" class="partner"><img src="images/diskon.jpg" class="img-fluid" alt="Colorlib Template"></a>
 	    			  </div>
 	                  <div class="text text-center">
 	                    <p class="mb-5 pl-4 line">Dapatkan potongan harga hinggal 20% dengan transaksi minimal 50.000 bagi pengguna baru</p>
@@ -1277,6 +1277,7 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
+  <a href="https://icons8.com/icon/66462/job-seeker">Job Seeker icon by Icons8</a>
     
   </body>
 </html>
