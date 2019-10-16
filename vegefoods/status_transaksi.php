@@ -9,7 +9,7 @@
                                           <form action="#" class="search-form">
                                             <div class="form-group">
                                               <span class="icon ion-ios-search"></span>
-                                              <input type="text" class="form-control" placeholder="Masukkan Kode Transaksi Anda">
+                                              <input type="text" class="form-control" placeholder="Cari Kode Transaksi Anda">
                                             </div>
                                           </form>
                                         </div>
