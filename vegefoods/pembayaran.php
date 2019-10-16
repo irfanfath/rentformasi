@@ -32,13 +32,23 @@
                                     <h5>Kartu Kredit :</h5>
                                     <button class="buatscroll">Cara Pembayaran Melalui Kartu Kredit</button>
                                     <div class="contentscroll">
-                                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                      <ol>       
+                                            <li>Isi semua data pribadi anda dengan lengkap, kemudian klik tombol Pilih Metode Pembayaran.</li>
+                                            <li>Pilih metode pembayaran Kartu Kredit, selanjutnya klik tombol Bayar.</li>
+                                            <li>Isi informasi tagihan dan informasi kartu kredit, lalu klik tombol Bayar.</li>
+                                            <li>Sistem Rentformasi akan terhubung dengan sistem bank.</li>            
+                                      </ol>
                                     </div>
                                     <br>
                                     <h5>Transfer Bank:</h5>
                                     <button class="buatscroll">Cara Pembayaran Melalui ATM BCA</button>
                                     <div class="contentscroll">
-                                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                      <ol>       
+                                            <li>Isi semua data pribadi anda dengan lengkap, kemudian klik tombol Pilih Metode Pembayaran.</li>
+                                            <li>Pilih metode pembayaran Transfer ATM, kemudian klik tombol Bayar.</li>
+                                            <li>Pastikan Transfer Ke Nomor Rekening tujuan 34728472034023 atas nama PT. Rentftormasi.com
+                                            <li>Pastikan penyewa melakukan transfer dana sesuai dengan tagihan </li>            
+                                      </ol>
                                     </div>
                                     <button class="buatscroll">Cara Pembayaran Melalui ATM BNI</button>
                                     <div class="contentscroll">

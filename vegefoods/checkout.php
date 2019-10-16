@@ -85,7 +85,7 @@
 										</div>
 										<div class="form-group">
 											<div class="checkbox">
-											   <label><input type="checkbox" value="" class="mr-2"> I have read and accept the terms and conditions</label>
+											   <label><input type="checkbox" value="" class="mr-2"> Saya sudah membaca dan meyetujui syarat dan ketentuan yang berlaku di Rentfomrasi</label>
 											</div>
 										</div>
 

@@ -47,7 +47,7 @@
 								<a href="#" class="mr-2" style="color: #000;">100 <span style="color: #bbb;">Rating</span></a>
 							</p>
 							<p class="text-left">
-								<a href="#" class="mr-2" style="color: #000;">500 <span style="color: #bbb;">Sold</span></a>
+								<a href="#" class="mr-2" style="color: #000;">500 <span style="color: #bbb;">Melihat Produk Ini</span></a>
 							</p>
 					</div>
 		    				<p class="price"><span>Rp. 250.000</span></p>

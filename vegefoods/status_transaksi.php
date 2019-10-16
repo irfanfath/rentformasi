@@ -5,6 +5,15 @@
             <div class="row">
                 <div class="col-lg-8 ftco-animate">
 
+                    <div class="sidebar-box">
+                                          <form action="#" class="search-form">
+                                            <div class="form-group">
+                                              <span class="icon ion-ios-search"></span>
+                                              <input type="text" class="form-control" placeholder="Masukkan Kode Transaksi Anda">
+                                            </div>
+                                          </form>
+                                        </div>
+
                     <div class="about-author d-flex p-4 bg-light">
                               <div class="bio align-self-md-center mr-4">
                                 <img src="images/person_1.jpg" alt="Image placeholder" class="img-fluid mb-4">
@@ -18,6 +27,7 @@
 
                     <div class="pt-5 mt-5">
                               <h2 class="mb-5 text-center" style="color: #82ae46">Status Transaksi</h2>
+                              <h6 class="mb-5 text-center">Kode Transaksi : RF3472472</h6>
                               <ul class="comment-list">
                                 <li class="comment">
                                   <div class="vcard bio">
