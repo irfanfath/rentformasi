@@ -314,7 +314,7 @@
 
 	function makeTimer() {
 
-		var endTime = new Date("21 December 2019 9:56:00 GMT+01:00");			
+		var endTime = new Date("18 December 2019 9:56:00 GMT+01:00");			
 		endTime = (Date.parse(endTime) / 1000);
 
 		var now = new Date();
@@ -343,4 +343,19 @@ setInterval(function() { makeTimer(); }, 1000);
 
 
 })(jQuery);
+
+var coll = document.getElementsByClassName("buatscroll");
+                                    var i;
+
+                                    for (i = 0; i < coll.length; i++) {
+                                      coll[i].addEventListener("click", function() {
+                                        this.classList.toggle("activescroll");
+                                        var content = this.nextElementSibling;
+                                        if (content.style.maxHeight){
+                                          content.style.maxHeight = null;
+                                        } else {
+                                          content.style.maxHeight = content.scrollHeight + "px";
+                                        } 
+                                      });
+                                    }
 

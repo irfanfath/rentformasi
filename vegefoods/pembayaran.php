@@ -15,8 +15,30 @@
             <div class="col-md-12 heading-section text-center ftco-animate">
                 <p>Harap lakukan pembayaran sebelum :</p>
                 <h4 class="mb-4 text-center">Rabu, 15 Oktober 2019 Pukul 08.00 WIB</h4>
+                    <div class="col-md-6 heading-section ftco-animate" style="margin-left: 400px;">
+                        <div id="timer" class="d-flex mt-5">
+                            <div class="time" id="days"></div>
+                            <div class="time pl-3" id="hours"></div>
+                            <div class="time pl-3" id="minutes"></div>
+                            <div class="time pl-3" id="seconds"></div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-6 heading-section ftco-animate" style="margin-left: 400px;">
+                        <div id="timer" class="d-flex mt-5">
+                            <div class="time" id="days"></div>
+                            <div class="time pl-3" id="hours"></div>
+                            <div class="time pl-3" id="minutes"></div>
+                            <div class="time pl-3" id="seconds"></div>
+                        </div>
+                    </div>
+
+                    <!-- js na can aing jieun ieu sap make nu index keneh aya di main.js -->
+
+                    <br>
                 <p>Lakukan Konfirmasi setelah melakukan pembayaran dan upload bukti pembayaran</p>
-                        <p><a href="konfirmasi.php" class="btn btn-primary py-3 px-4">Konfirmasi Pembayaran</a></p> <!-- keluar popup suruh upload bukti transfer baru bisa pindah page -->
+                <p><a href="konfirmasi.php" class="btn btn-primary py-3 px-4">Konfirmasi Pembayaran</a></p> <!-- keluar popup suruh upload bukti transfer baru bisa pindah page -->
             </div>
     </div>
 
@@ -73,22 +95,6 @@
                                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                                     </div>
 
-                                    <script>
-                                    var coll = document.getElementsByClassName("buatscroll");
-                                    var i;
-
-                                    for (i = 0; i < coll.length; i++) {
-                                      coll[i].addEventListener("click", function() {
-                                        this.classList.toggle("activescroll");
-                                        var content = this.nextElementSibling;
-                                        if (content.style.maxHeight){
-                                          content.style.maxHeight = null;
-                                        } else {
-                                          content.style.maxHeight = content.scrollHeight + "px";
-                                        } 
-                                      });
-                                    }
-                                    </script>
                         </div>
                     </div>
                 </div>
