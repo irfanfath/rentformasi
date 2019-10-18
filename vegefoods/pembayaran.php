@@ -25,15 +25,6 @@
                     </div>
 
 
-                    <div class="col-md-6 heading-section ftco-animate" style="margin-left: 400px;">
-                        <div id="timer" class="d-flex mt-5">
-                            <div class="time" id="days"></div>
-                            <div class="time pl-3" id="hours"></div>
-                            <div class="time pl-3" id="minutes"></div>
-                            <div class="time pl-3" id="seconds"></div>
-                        </div>
-                    </div>
-
                     <!-- js na can aing jieun ieu sap make nu index keneh aya di main.js -->
 
                     <br>
