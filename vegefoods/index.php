@@ -2,7 +2,7 @@
     <!-- END nav -->
 
     <section id="home-section" class="hero">
-		  <div class="home-slider owl-carousel">
+		<div class="home-slider owl-carousel">
 	      <div class="slider-item" style="background-image: url(images/bg1.png);">
 	      	<div class="overlay"></div>
 	        <div class="container">
@@ -173,7 +173,7 @@
 			</div>
 	</section>
 
-		<section class="ftco-section ftco-category ftco-no-pt">
+	<section class="ftco-section ftco-category ftco-no-pt">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8">
@@ -216,7 +216,7 @@
 					</div>       
 				</div>
 			</div>
-		</section>
+	</section>
 
 		<hr>
 
@@ -1212,7 +1212,7 @@
 
     <hr>
 
-		<section class="ftco-section ftco-partner">
+	<section class="ftco-section ftco-partner">
     	<div class="container">
     		<div class="row">
     			<div class="col-sm ftco-animate">
@@ -1234,7 +1234,7 @@
     	</div>
     </section>
 
-		<section class="ftco-section ftco-no-pt ftco-no-pb py-5 bg-light">
+	<section class="ftco-section ftco-no-pt ftco-no-pb py-5 bg-light">
       <div class="container py-4">
         <div class="row d-flex justify-content-center py-5">
           <div class="col-md-6">
