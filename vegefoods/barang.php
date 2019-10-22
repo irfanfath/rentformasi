@@ -118,6 +118,7 @@
                                                 <div class="select-wrap">
                                                     <div class="icon"><span class="ion-ios-arrow-down"></span></div>
                                                       <select name="" id="" class="form-control">
+                                                        <option value="">Semua</option>
                                                         <option value="">>Rp. 100.000</option>
                                                         <option value="">Rp. 100.000 - Rp. 300.000</option>
                                                         <option value="">Rp. 300.000 - Rp. 500.000</option>

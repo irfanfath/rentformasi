@@ -35,141 +35,273 @@
 
     <section class="ftco-section">
 			<div class="container">
-				<div class="row no-gutters ftco-services">
+                    <div class="col-md-12 mb-5 text-center">
+                        <ul class="nav product-category justify-content-center">
+                            <li><a class="active" data-toggle="tab" href="#menubarang">Barang</a></li>
+                            <li><a data-toggle="tab" href="#menupenginapan">Penginapan</a></li>
+                            <li><a data-toggle="tab" href="#menuolahraga">Sarana Olahraga</a></li>
+                        </ul>
+                    </div>
+            
+                <div class ="tab-content">
+                    <div id="menubarang" class="tab-pane fade show active">        
+                        <div class="row no-gutters ftco-services">
+                        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 active d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/dotty/80/000000/car.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Mobil & Motor</h3>
+                                        <span>On order over $100</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/wired/64/000000/cell-phone.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Alat Elektronik</h3>
+                                        <span>Product well package</span>
+                                </div>
+                                </div>    
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/wired/64/000000/tractor.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Alat Berat</h3>
+                                        <span>Quality Products</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/wired/64/000000/trekking.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Perlengkapan Gunung</h3>
+                                        <span>24/7 Support</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/ios/50/000000/vegan-clothing.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Clothing</h3>
+                                        <span>24/7 Support</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/dotty/80/000000/discus-throw.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Peralatan Olahraga</h3>
+                                        <span>Quality Products</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                    <img src="https://img.icons8.com/wired/64/000000/book.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Buku</h3>
+                                        <span>Quality Products</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 active d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/ios/50/000000/paragliding.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Hobi</h3>
+                                    <span>On order over $100</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/wired/64/000000/champagne.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Perlengkapan Acara Pesta</h3>
+                                        <span>24/7 Support</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/wired/64/000000/hammer.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Perkakas</h3>
+                                        <span>24/7 Support</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/wired/64/000000/find-matching-job.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Barang Lainnya</h3>
+                                        <span>24/7 Support</span>
+                                </div>
+                                </div>      
+                            </div>
+                        </div>
+                    </div>
 
-			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
-			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-2 active d-flex justify-content-center align-items-center mb-2">
-			            		<img src="https://img.icons8.com/dotty/80/000000/car.png" style="width: 50px;">
-			              </div>
-			              <div class="media-body">
-			                <h3 class="heading">Mobil & Motor</h3>
-			                	<span>On order over $100</span>
-			              </div>
-			            </div>      
-			        </div>
-			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
-			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-			            		<img src="https://img.icons8.com/wired/64/000000/cell-phone.png" style="width: 50px;">
-			              </div>
-			              <div class="media-body">
-			                <h3 class="heading">Alat Elektronik</h3>
-			               	 	<span>Product well package</span>
-			              </div>
-			            </div>    
-			        </div>
-			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
-			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-			            		<img src="https://img.icons8.com/wired/64/000000/tractor.png" style="width: 50px;">
-			              </div>
-			              <div class="media-body">
-			                <h3 class="heading">Alat Berat</h3>
-			                	<span>Quality Products</span>
-			              </div>
-			            </div>      
-			        </div>
-			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
-			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-			            		<img src="https://img.icons8.com/wired/64/000000/trekking.png" style="width: 50px;">
-			              </div>
-			              <div class="media-body">
-			                <h3 class="heading">Perlengkapan Gunung</h3>
-			                	<span>24/7 Support</span>
-			              </div>
-			            </div>      
-			        </div>
-			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
-			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-			            		<img src="https://img.icons8.com/ios/50/000000/vegan-clothing.png" style="width: 50px;">
-			              </div>
-			              <div class="media-body">
-			                <h3 class="heading">Clothing</h3>
-			                	<span>24/7 Support</span>
-			              </div>
-			            </div>      
-			        </div>
-			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
-			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-			            		<img src="https://img.icons8.com/dotty/80/000000/discus-throw.png" style="width: 50px;">
-			              </div>
-			              <div class="media-body">
-			                <h3 class="heading">Peralatan Olahraga</h3>
-			                	<span>Quality Products</span>
-			              </div>
-			            </div>      
-			        </div>
-			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
-			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-			            	<img src="https://img.icons8.com/wired/64/000000/book.png" style="width: 50px;">
-			              </div>
-			              <div class="media-body">
-			                <h3 class="heading">Buku</h3>
-			                	<span>Quality Products</span>
-			              </div>
-			            </div>      
-			        </div>
-			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
-			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-			            		<img src="https://img.icons8.com/ios/50/000000/3-star-hotel.png" style="width: 50px;">
-			              </div>
-			              <div class="media-body">
-			                <h3 class="heading">Properti</h3>
-			                	<span>Quality Products</span>
-			              </div>
-			            </div>      
-			        </div>
-			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
-			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-2 active d-flex justify-content-center align-items-center mb-2">
-			            		<img src="https://img.icons8.com/ios/50/000000/paragliding.png" style="width: 50px;">
-			              </div>
-			              <div class="media-body">
-			                <h3 class="heading">Hobi</h3>
-			                <span>On order over $100</span>
-			              </div>
-			            </div>      
-			        </div>
-			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
-			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-			            		<img src="https://img.icons8.com/wired/64/000000/champagne.png" style="width: 50px;">
-			              </div>
-			              <div class="media-body">
-			                <h3 class="heading">Perlengkapan Acara Pesta</h3>
-			                	<span>24/7 Support</span>
-			              </div>
-			            </div>      
-			        </div>
-			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
-			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-			            		<img src="https://img.icons8.com/wired/64/000000/hammer.png" style="width: 50px;">
-			              </div>
-			              <div class="media-body">
-			                <h3 class="heading">Perkakas</h3>
-			                	<span>24/7 Support</span>
-			              </div>
-			            </div>      
-			        </div>
-			        <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
-			            <div class="media block-6 services mb-md-0 mb-4">
-			              <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-			            		<img src="https://img.icons8.com/wired/64/000000/find-matching-job.png" style="width: 50px;">
-			              </div>
-			              <div class="media-body">
-			                <h3 class="heading">Barang Lainnya</h3>
-			                	<span>24/7 Support</span>
-			              </div>
-			            </div>      
-			        </div>
-	        	</div>
+                    <div id="menupenginapan" class="tab-pane fade show">        
+                        <div class="row no-gutters ftco-services">
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                    <img src="https://img.icons8.com/wired/64/000000/book.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Hotel</h3>
+                                        <span>Quality Products</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/ios/50/000000/3-star-hotel.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Apartemen</h3>
+                                        <span>Quality Products</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 active d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/ios/50/000000/paragliding.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Villa</h3>
+                                    <span>On order over $100</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/wired/64/000000/champagne.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Bungalo</h3>
+                                        <span>24/7 Support</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/wired/64/000000/hammer.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Cottage</h3>
+                                        <span>24/7 Support</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/wired/64/000000/hammer.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Penginapan Lainnya</h3>
+                                        <span>24/7 Support</span>
+                                </div>
+                                </div>      
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="menuolahraga" class="tab-pane fade show">        
+                        <div class="row no-gutters ftco-services">
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                    <img src="https://img.icons8.com/wired/64/000000/book.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Lapang Futsal</h3>
+                                        <span>Quality Products</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/ios/50/000000/3-star-hotel.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Lapang Basket</h3>
+                                        <span>Quality Products</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 active d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/ios/50/000000/paragliding.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Lapang Badminton</h3>
+                                    <span>On order over $100</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/wired/64/000000/champagne.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Lapang Tenis</h3>
+                                        <span>24/7 Support</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/wired/64/000000/champagne.png" style="width: 50px;">
+                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Sarana Olahraga Lainnya</h3>
+                                        <span>24/7 Support</span>
+                                </div>
+                                </div>      
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
 			</div>
 	</section>
 

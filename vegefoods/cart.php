@@ -81,7 +81,8 @@
 	    						<span>$17.60</span>
 	    					</p>
 	    				</div>
-	    				<p><a href="checkout.php" class="btn btn-primary py-3 px-4">Proses Pembayaran</a></p>
+						<p><a href="checkout.php" class="btn btn-primary py-3 px-4">Proses Pembayaran</a>
+						<a href="barang.php" class="btn btn-primary py-3 px-4" style="margin-left:20px;">Sewa Produk Lain</a></p>
 	    			</div>
     			</div>
     		</div>

@@ -7,14 +7,14 @@
         <br>
         <p>Terima kasih atas kepercayaan anda bertansaksi di Rentformasi. Untuk Selanjutnya mohon segera lakukan pembayaran sebesar :</p>
             <div class="heading-section-bold mb-4 mt-md-5">
-                <h2 class="mb-4 text-center">Rp. 575.454</h2>
+                <h2 class="mb-4 text-center" style="color: #82ae46;">Rp. 575.454</h2>
                 <p>Nomor Tagihan Rentformasi : RF4234293483420</p>
 
                 <h6 class="mb-4 text-center">*Nominal pada 3 digit terakhir merupakan kode unik transaksi anda. Harap Transfer sesuai nominal yang tertera di atas.</h6>
             </div>
             <div class="col-md-12 heading-section text-center ftco-animate">
                 <p>Harap lakukan pembayaran sebelum :</p>
-                <h4 class="mb-4 text-center">Rabu, 15 Oktober 2019 Pukul 08.00 WIB</h4>
+                <h4 class="mb-4 text-center">Rabu, 18 Desember 2019 Pukul 08.00 WIB</h4>
                     <div class="col-md-6 heading-section ftco-animate" style="margin-left: 400px;">
                         <div id="timer" class="d-flex mt-5">
                             <div class="time" id="days"></div>
@@ -23,7 +23,6 @@
                             <div class="time pl-3" id="seconds"></div>
                         </div>
                     </div>
-
 
                     <!-- js na can aing jieun ieu sap make nu index keneh aya di main.js -->
 

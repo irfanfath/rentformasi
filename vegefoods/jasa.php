@@ -17,7 +17,6 @@
                     <div class="col-lg-6 product-details pl-md-5 ftco-animate">
                         <div class="hero-wrap hero-bread" style="background-image: url('images/desain.png'); margin-top: 90px;">
                         </div>
-                        <!-- isi sama gambar -->
                     </div>
 
                     <div class="col-lg-6 product-details pl-md-5 ftco-animate">
@@ -117,7 +116,8 @@
                                                 <div class="select-wrap">
                                                     <div class="icon"><span class="ion-ios-arrow-down"></span></div>
                                                       <select name="" id="" class="form-control">
-                                                        <option value="">>Rp. 100.000</option>
+                                                        <option value="">Semua</option>
+                                                        <option value="">> Rp. 100.000</option>
                                                         <option value="">Rp. 100.000 - Rp. 300.000</option>
                                                         <option value="">Rp. 300.000 - Rp. 500.000</option>
                                                         <option value="">Rp. 500.000 - Rp. 800.000</option>
