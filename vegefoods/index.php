@@ -49,7 +49,7 @@
                         <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
                                 <div class="media block-6 services mb-md-0 mb-4">
                                 <div class="icon bg-color-2 active d-flex justify-content-center align-items-center mb-2">
-                                        <img src="https://img.icons8.com/dotty/80/000000/car.png" style="width: 50px;">
+                                    <img src="https://img.icons8.com/dotty/80/000000/car-rental.png" style="width: 50px;">
                                 </div>
                                 <div class="media-body">
                                     <h3 class="heading">Mobil & Motor</h3>
@@ -159,7 +159,7 @@
                             <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
                                 <div class="media block-6 services mb-md-0 mb-4">
                                 <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-                                        <img src="https://img.icons8.com/wired/64/000000/find-matching-job.png" style="width: 50px;">
+                                    <img src="https://img.icons8.com/pastel-glyph/64/000000/box--v2.png" style="width: 50px;">
                                 </div>
                                 <div class="media-body">
                                     <h3 class="heading">Barang Lainnya</h3>
@@ -175,7 +175,7 @@
                             <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
                                 <div class="media block-6 services mb-md-0 mb-4">
                                 <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-                                    <img src="https://img.icons8.com/wired/64/000000/book.png" style="width: 50px;">
+                                    <img src="https://img.icons8.com/wired/64/000000/3-star-hotel.png" style="width: 50px;">
                                 </div>
                                 <div class="media-body">
                                     <h3 class="heading">Hotel</h3>
@@ -197,7 +197,7 @@
                             <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
                                 <div class="media block-6 services mb-md-0 mb-4">
                                 <div class="icon bg-color-2 active d-flex justify-content-center align-items-center mb-2">
-                                        <img src="https://img.icons8.com/ios/50/000000/paragliding.png" style="width: 50px;">
+                                    <img src="https://img.icons8.com/ios-glyphs/60/000000/village.png" style="width: 50px;">
                                 </div>
                                 <div class="media-body">
                                     <h3 class="heading">Villa</h3>
@@ -208,10 +208,10 @@
                             <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
                                 <div class="media block-6 services mb-md-0 mb-4">
                                 <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-                                        <img src="https://img.icons8.com/wired/64/000000/champagne.png" style="width: 50px;">
+                                    <img src="https://img.icons8.com/metro/52/000000/bungalow.png" style="width: 50px;">
                                 </div>
                                 <div class="media-body">
-                                    <h3 class="heading">Bungalo</h3>
+                                    <h3 class="heading">Bungalow</h3>
                                         <span>24/7 Support</span>
                                 </div>
                                 </div>      
@@ -219,7 +219,7 @@
                             <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
                                 <div class="media block-6 services mb-md-0 mb-4">
                                 <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-                                        <img src="https://img.icons8.com/wired/64/000000/hammer.png" style="width: 50px;">
+                                    <img src="https://img.icons8.com/ios/50/000000/residence.png" style="width: 50px;">
                                 </div>
                                 <div class="media-body">
                                     <h3 class="heading">Cottage</h3>
@@ -230,7 +230,7 @@
                             <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
                                 <div class="media block-6 services mb-md-0 mb-4">
                                 <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-                                        <img src="https://img.icons8.com/wired/64/000000/hammer.png" style="width: 50px;">
+                                    <img src="https://img.icons8.com/dotty/80/000000/link-company-child.png" style="width: 50px;">
                                 </div>
                                 <div class="media-body">
                                     <h3 class="heading">Penginapan Lainnya</h3>
@@ -246,7 +246,7 @@
                             <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
                                 <div class="media block-6 services mb-md-0 mb-4">
                                 <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-                                    <img src="https://img.icons8.com/wired/64/000000/book.png" style="width: 50px;">
+                                    <img src="https://img.icons8.com/ios-glyphs/90/000000/beach-soccer.png"style="width: 50px;">
                                 </div>
                                 <div class="media-body">
                                     <h3 class="heading">Lapang Futsal</h3>
@@ -257,7 +257,17 @@
                             <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
                                 <div class="media block-6 services mb-md-0 mb-4">
                                 <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-                                        <img src="https://img.icons8.com/ios/50/000000/3-star-hotel.png" style="width: 50px;">
+                                <img src="https://img.icons8.com/ios/50/000000/stadium.png" style="width: 50px;">                                </div>
+                                <div class="media-body">
+                                    <h3 class="heading">Lapang Sepak Bola</h3>
+                                        <span>Quality Products</span>
+                                </div>
+                                </div>      
+                            </div>
+                            <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
+                                <div class="media block-6 services mb-md-0 mb-4">
+                                <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
+                                        <img src="https://img.icons8.com/wired/64/000000/basketball-net.png"style="width: 50px;">
                                 </div>
                                 <div class="media-body">
                                     <h3 class="heading">Lapang Basket</h3>
@@ -268,7 +278,7 @@
                             <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
                                 <div class="media block-6 services mb-md-0 mb-4">
                                 <div class="icon bg-color-2 active d-flex justify-content-center align-items-center mb-2">
-                                        <img src="https://img.icons8.com/ios/50/000000/paragliding.png" style="width: 50px;">
+                                    <img src="https://img.icons8.com/ios/64/000000/sport-net.png" style="width: 50px;">
                                 </div>
                                 <div class="media-body">
                                     <h3 class="heading">Lapang Badminton</h3>
@@ -279,7 +289,7 @@
                             <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
                                 <div class="media block-6 services mb-md-0 mb-4">
                                 <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-                                        <img src="https://img.icons8.com/wired/64/000000/champagne.png" style="width: 50px;">
+                                    <img src="https://img.icons8.com/wired/64/000000/tennis.png" style="width: 50px;">
                                 </div>
                                 <div class="media-body">
                                     <h3 class="heading">Lapang Tenis</h3>
@@ -290,7 +300,7 @@
                             <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
                                 <div class="media block-6 services mb-md-0 mb-4">
                                 <div class="icon bg-color-2 d-flex justify-content-center align-items-center mb-2">
-                                        <img src="https://img.icons8.com/wired/64/000000/champagne.png" style="width: 50px;">
+                                    <img src="https://img.icons8.com/pastel-glyph/64/000000/sport-arena.png" style="width: 50px;">
                                 </div>
                                 <div class="media-body">
                                     <h3 class="heading">Sarana Olahraga Lainnya</h3>
