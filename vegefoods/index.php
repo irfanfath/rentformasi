@@ -1264,7 +1264,7 @@
     	</div>
     </section>
 		
-	<section class="ftco-section img" style="background-image: url(images/spesialnih.jpg);">
+	<!-- <section class="ftco-section img" style="background-image: url(images/spesialnih.jpg);">
     	<div class="container">
 				<div class="row justify-content-end">
           			<div class="col-md-4 heading-section ftco-animate deal-of-the-day ftco-animate">
@@ -1282,8 +1282,9 @@
           			</div>
        			</div>   		
     	</div>
-    </section>
-
+    </section> -->
+    <hr/>
+    
     <section class="ftco-section testimony-section">
       <div class="container">
         <div class="row justify-content-center mb-5 pb-3">

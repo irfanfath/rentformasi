@@ -56,7 +56,7 @@
             </li>
 
             <li class="nav-item"><a href="login.php" class="nav-link"><span class="icon-shopping_cart"></span>[0]</a></li> <!-- pake session login sap -->
-            <p><a href="registvendor.php" class="btn btn-primary" style="margin-top: 15px;">Daftar Vendor</a></p>
+            <li class="nav-item"><a href="registvendor.php" class="nav-link" style="border: solid 1px #42b549; line-height: 1px; margin-top: 6px; color: #42b549">Daftar Vendor</a></li>
           </ul>
         </div>
       </div>
